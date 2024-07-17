@@ -1,4 +1,4 @@
-# ESP32-Weather-Display
+# ESP32-Weather-Displayg
 This project utilizes the ESP32 microcontroller along with an OLED display to create a compact weather station. The station retrieves current weather data from the OpenWeatherMap API and displays it in a user-friendly format on the OLED screen.
 
 # Features
@@ -14,12 +14,12 @@ This project utilizes the ESP32 microcontroller along with an OLED display to cr
 # Circuit Diagram 
 ![alt text](image.png)
 # Connects
-| **ESP** | **OLED** |
-|---------|----------|
-| **+5v**   -->| **VCC**  |
-| **GND** -->| **GND**  |
-| **21**  -->| **SDA**  |
-| **22**  -->| **SCL**  |
+| **ESP** | |**OLED** |
+|---------|--|--------|
+| **+5v**   |-->| **VCC**  |
+| **GND** |-->| **GND**  |
+| **21**  |-->| **SDA**  |
+| **22**  |-->| **SCL**  |
 
 # Obtaining an API Key from OpenWeatherMap
 To use the OpenWeatherMap API for retrieving weather data, you need to obtain an API key. Follow these steps:
