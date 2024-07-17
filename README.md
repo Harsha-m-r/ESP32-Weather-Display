@@ -14,9 +14,9 @@ This project utilizes the ESP32 microcontroller along with an OLED display to cr
 # Circuit Diagram 
 ![alt text](image.png)
 # Connects
-| **ESP** | |**OLED** |
+| **ESP** | --> |**OLED** |
 |---------|--|--------|
-| **+5v**   |-->| **VCC**  |
+| **+5v** |-->| **VCC**  |
 | **GND** |-->| **GND**  |
 | **21**  |-->| **SDA**  |
 | **22**  |-->| **SCL**  |
