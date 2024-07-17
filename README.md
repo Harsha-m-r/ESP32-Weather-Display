@@ -49,7 +49,9 @@ To use the OpenWeatherMap API for retrieving weather data, you need to obtain an
 
 * Copy the API key to your clipboard.
 * Past in the code 
-**4.countryCode**
+
+**4.CountryCode**
+
 * Go to home page [OpenWeatherMap website](https://openweathermap.org/)
 * In the Search box search for your city 
 * chech the **URL** the ending numbers is your county code 
